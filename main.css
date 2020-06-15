@@ -4,3 +4,27 @@
     box-sizing: border-box;
     background-color: #7159c1;
 }
+
+header {
+    background-color: yellow;
+    height: 100px;
+   
+}
+
+main {
+    background-color: blue;
+    height: 100px;
+   
+}
+
+aside {
+    background-color: green;
+    height: 100px;
+   
+}
+
+footer {
+    background-color: red;
+    height: 100px;
+   
+}
